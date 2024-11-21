@@ -7,7 +7,7 @@ Features
 Installation
 1. Clone the repository:
  ```bash
- git clone https://github.com/your-username/ccwc.git
+ git clone https://github.com/rajatsing/ccwc.git
  cd ccwc
  ```
 1. Build the binary:
