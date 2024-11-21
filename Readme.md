@@ -16,7 +16,6 @@ Installation
  ```
 1. (Optional) Add it to your `PATH` for global use:
  ```bash
-ccwc CLI Tool - README
  mv ccwc /usr/local/bin/
  ```
 Usage
@@ -37,7 +36,6 @@ Usage
  ```bash
  ccwc -m filename.txt
  ```
-ccwc CLI Tool - README
 ### Analyze Piped Input
 - Count **lines** in piped input:
  ```bash
@@ -58,7 +56,6 @@ Example output:
 ```
 (Output format: `bytes lines words`)
 Flags
-ccwc CLI Tool - README
 | Flag | Shorthand | Description |
 |-----------|-----------|-----------------------------------|
 | `--bytes` | `-c` | Number of bytes in the file |
